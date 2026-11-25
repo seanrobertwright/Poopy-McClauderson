@@ -1,3 +1,5 @@
+# 💩💩💩
+
 # Poopy-McClauderson
 
 Poopy-McClauderson is a humorous custom spinner configuration for Claude Code. It replaces Claude's standard spinner verbs with an extensive collection of toilet-, fart-, and other bathroom-themed phrases.
